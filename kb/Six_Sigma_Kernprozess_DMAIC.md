@@ -5,100 +5,40 @@ author: AlbaraMo
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Six_Sigma_Kernprozess_DMAIC um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Akronym DMAIC steht für den Kernprozess des Qualitätsmanagement-Ansatzes Six Sigma und beschreibt dessen Phasen Define – Measure – Analyse – Improve – Control (dt. Definieren – Messen – Analysieren – Verbessern – Steuern).
+Als Prozessoptimierungsprozess zielt er auf die Verbesserung von bestehenden Produkten ab; damit verwandte Ansätze sind DMADV (DV: Design – Verify) für neue Produkte und DMAEC (E = Engineering) für neue Prozesse. DMAIC fasst bekannte Vorgehensweisen und Methoden zu einem systematischen Ansatz zusammen. Dabei werden die Werkzeuge über die einzelnen Phasen miteinander verknüpft, die Projektarbeit wird dadurch chronologisch strukturiert und systematisiert.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Define – Definieren. Was ist das Problem?
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+In dieser Phase wird der Ist-Zustand dokumentiert und definiert, wer die Kundschaft (im weitesten Sinn) des Prozesses ist und welche Kundenbedarfe er erfüllen soll. Auf dieser Basis werden dann die Leistungsmerkmale des Prozesses definiert, die kritisch für die Erfüllung der Kundenerwartungen sind. Zudem werden Projektparameter wie Umfang, Grenzen und Zeiträume festgelegt.
 
 
-# Aspekt 1
+# Measure – Messen: Wie lässt sich die Auswirkung messen?
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Daten, Zahlen und Fakten liefern die Basis für ein erfolgreiches Verbesserungsprojekt. Messen bedeutet in dieser Phase, die derzeitige Ausprägung der Leistungsmerkmale festzustellen. Dazu wird der Prozess zunächst in Teilprozesse aufgegliedert und visualisiert (Process-Mapping). Auf dieser Basis können mögliche Einfluss- und Ausgangsgrößen ermittelt sowie Methoden und Instrumente zur Erhebung von Daten aus den einzelnen Prozessschritten festgelegt werden. Ziel ist, die Funktionalität des Prozesses zu erfassen. Als Werkzeuge stehen dafür unter anderem statistische und grafische Methoden sowie Prozess- und Messsystemfähigkeitsuntersuchungen zur Verfügung. Nach Abschluss diese Phase liegen beispielsweise ein Datenerfassungsplan, Datenerfassungsblätter, Häufigkeitsdiagramme (Histogramme), Messsystemanalysen, eine Prioritätsmatrix sowie eine FMEA (Failure Mode and Effects Analysis, dt.: Fehlermöglichkeits- und -einflussanalyse, kurz Auswirkungsanalyse) vor.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Analyse – Analysieren. Welche Ursachen hat das Problem?
 
-![Beispielabbildung](Six_Sigma_Kernprozess_DMAIC/test-file.jpg)
+Ziel der Analysephase ist, die Ursache-Wirkungs-Beziehungen zwischen In- und Outputs nicht nur qualitativ, sondern möglichst auch quantitativ darzustellen, um die Ursachen der Abweichung von definierten Leistungszielen zu identifizieren. Als Werkzeuge hierzu dienen neben dem Brainstorming beispielsweise Ishikawa-Diagramme, FMEA sowie statistische Methoden. Das Ergebnis dieser Phase führt unter Umständen dazu, dass Änderungen der Problembeschreibung oder des gesamten Projektrahmens vorgenommen werden müssen.
 
-*lustiges Testbild*
+# Improve – Verbessern: Wie lässt sich das Problem eliminieren?
 
-# Aspekt 2
+In der Verbesserungsphase sollen Lösungsmöglichkeiten für die in der Analysephase identifizierten und ausgewählten Probleme gefunden werden. Dies kann durch Kreativitätstechniken (wie Brainstorming oder Brainwriting, Mindmapping, Morphologischer Kasten) unterstützt werden. Die möglichen Lösungen werden anhand von Normen (gesetzliche Auflagen, Verordnungen, Umweltrichtlinien usw.) sowie Mach- und Wünschbarkeitskriterien überprüft und bewertet. Über die Eignung der Lösungen wird entschieden, die vorteilhafteste wird umgesetzt.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Control – Steuern
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Die letzte Phase dient der Verankerung der erreichten Verbesserungen und neuen Verfahren im Alltagsbetrieb durch Standardisierung und Dokumentation. Der Prozess bzw. die Wirkung der Maßnahmen wird mit den entwickelten Messsystemen kontinuierlich überwacht, um bei Abweichungen vom definierten Ziel geeignete Korrekturmaßnahmen einleiten zu können. Die Überprüfung der Zielrerreichung erfolgt durch das Controlling.
 
-So kann man eine Tabelle erstellen:
+# Fazit
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Der Vorteil des DMAIC-Prozesses als Kern von Six Sigma liegt darin, dass er ein weites Spektrum an Möglichkeiten und Werkzeugen im Bereich der Projektmanagementtechnik eröffnet. Von großem Wert ist das Schaffen eines konzeptionellen Rahmens im Unternehmen, um Leistungen kontinuierlich messen, verbessern und kontrollieren zu können. Damit fördert DMAIC die Effektivität und die Effizienz der Unternehmensprozesse.
 
 
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Six_Sigma_Kernprozess_DMAIC.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: (https://refa.de/service/refa-lexikon/dmaic)
+[^2]: https://www.business-wissen.de/hb/six-sigma-prozesse-dmaic-und-dfss/
+[^3]: https://de.wikipedia.org/wiki/DMAIC
+[^4]: [https://www.quality.de/lexikon/six-sigma/
 
