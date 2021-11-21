@@ -41,5 +41,5 @@ Der Vorteil des DMAIC-Prozesses als Kern von Six Sigma liegt darin, dass er ein 
 [^1]: (https://refa.de/service/refa-lexikon/dmaic)
 [^2]: https://www.business-wissen.de/hb/six-sigma-prozesse-dmaic-und-dfss/
 [^3]: https://de.wikipedia.org/wiki/DMAIC
-[^4]: [https://www.quality.de/lexikon/six-sigma/
+
 
