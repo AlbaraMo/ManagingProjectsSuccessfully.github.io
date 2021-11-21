@@ -33,7 +33,7 @@ Die letzte Phase dient der Verankerung der erreichten Verbesserungen und neuen V
 
 Der Vorteil des DMAIC-Prozesses als Kern von Six Sigma liegt darin, dass er ein weites Spektrum an Möglichkeiten und Werkzeugen im Bereich der Projektmanagementtechnik eröffnet. Von großem Wert ist das Schaffen eines konzeptionellen Rahmens im Unternehmen, um Leistungen kontinuierlich messen, verbessern und kontrollieren zu können. Damit fördert DMAIC die Effektivität und die Effizienz der Unternehmensprozesse.
 
-
+![Beispielabbildung](Six_Sigma_Kernprozess_DMAIC/Beitrag-01.jpg)
 
 # Quellen
 
