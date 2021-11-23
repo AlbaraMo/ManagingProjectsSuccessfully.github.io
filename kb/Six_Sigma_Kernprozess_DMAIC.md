@@ -38,9 +38,9 @@ DMAIC fördert die Effektivität und die Effizienz der Unternehmensprozesse, den
 
 # Quellen
 
-[^1]: [Six Sigma Prozessoptimierung](https://refa.de/service/refa-lexikon/dmaic)
+[^1] [Six Sigma Prozessoptimierung](https://refa.de/service/refa-lexikon/dmaic)
 
-[^2]: [Six-Sigma-Prozesse DMAIC und DFSS](https://www.business-wissen.de/hb/)
+[^2] [Six-Sigma-Prozesse DMAIC und DFSS](https://www.business-wissen.de/hb/)
 
 [^3] [DMAIC](https://de.wikipedia.org/wiki/DMAIC)
 
